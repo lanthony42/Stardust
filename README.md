@@ -1,3 +1,5 @@
 # Stardust!
  
-Terraria + Outer Space + Factorio?
+Terraria + Outer Space + Factorio = ?
+
+***WIP***
