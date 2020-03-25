@@ -1,5 +1,5 @@
 # Stardust!
  
-Terraria + Outer Space + Factorio = ?
+Terraria + Factorio + Outer Space = ?
 
-* [***WIP***](https://trello.com/b/N2vzNF4e/stardust)
+<sup>[***Work In Progress Trello Board***](https://trello.com/b/N2vzNF4e/stardust)</sub>
